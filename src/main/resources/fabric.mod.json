@@ -3,7 +3,7 @@
   "id": "customenchants",
   "version": "${version}",
   "name": "Custom Enchants",
-  "description": "Adds 9 custom enchantments (Telekinesis, Soulbound, Harvesting, Replenish, Smelting Touch, Fortune IV, Bedrock Breaker, Efficiency VI-VII, Unbreakable), anvil QoL improvements (zero XP rename, item return on close, color codes), and a reroll keybind (R) for the enchantment table.",
+  "description": "Adds 9 custom enchantments (Telekinesis, Soulbound, Harvesting, Replenish, Smelting Touch, Fortune IV, Bedrock Breaker, Efficiency VI-VII, Unbreakable), anvil QoL improvements (zero XP rename, color codes), and a reroll keybind (R) for the enchantment table.",
   "authors": [
     "Abytzu"
   ],
