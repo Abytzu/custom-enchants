@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.customenchants.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilCloseMixin",
+    "AnvilEfficiencyUpgradeMixin",
+    "AnvilLevelCostAccessor",
+    "AnvilLevelCostMixin",
+    "AnvilRenameColorMixin",
+    "BedrockBreakerMixin",
+    "EnchantmentSeedAccessor",
+    "HasteSpeedMixin",
+    "LivingEntityDropMixin",
+    "PlayerDeathMixin",
+    "ReplenishMixin"
+  ]
+}

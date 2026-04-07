@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "customenchants",
+  "version": "${version}",
+  "name": "Custom Enchants",
+  "description": "Adds 9 custom enchantments (Telekinesis, Soulbound, Harvesting, Replenish, Smelting Touch, Fortune IV, Bedrock Breaker, Efficiency VI-VII, Unbreakable), anvil QoL improvements (zero XP rename, color codes), and a reroll keybind (R) for the enchantment table.",
+  "authors": [
+    "Abytzu"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.customenchants.CustomEnchantsMain"
+    ],
+    "client": [
+      "com.customenchants.client.CustomEnchantsClient"
+    ],
+    "modmenu": [
+      "com.customenchants.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "customenchants.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": ">=1.21.1",
+    "java": ">=21"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "cloth-config": "*"
+  },
+  "icon": "assets/customenchants/icon.png"
+}

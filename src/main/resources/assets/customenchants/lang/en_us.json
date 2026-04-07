@@ -1,0 +1,21 @@
+{
+  "enchantment.customenchants.telekinesis": "Telekinesis",
+  "enchantment.customenchants.telekinesis.desc": "Auto-collects drops into inventory.",
+  "enchantment.customenchants.soulbound": "Soulbound",
+  "enchantment.customenchants.soulbound.desc": "Kept on death.",
+  "enchantment.customenchants.harvesting": "Harvesting",
+  "enchantment.customenchants.harvesting.desc": "Bonus crop drops. Higher levels increase yield.",
+  "enchantment.customenchants.replenish": "Replenish",
+  "enchantment.customenchants.replenish.desc": "Auto-replants crops after harvesting.",
+  "enchantment.customenchants.smelting_touch": "Smelting Touch",
+  "enchantment.customenchants.smelting_touch.desc": "Auto-smelts drops. Exclusive with Silk Touch.",
+  "enchantment.customenchants.fortune": "Fortune",
+  "enchantment.customenchants.fortune.desc": "More block drops. Replaces vanilla Fortune.",
+  "enchantment.customenchants.bedrock_breaker": "Bedrock Breaker",
+  "enchantment.customenchants.bedrock_breaker.desc": "Allows breaking bedrock.",
+  "enchantment.customenchants.efficiency": "Efficiency",
+  "enchantment.customenchants.efficiency.desc": "Levels VI-VII: combine two Eff V items in an anvil.",
+  "enchantment.customenchants.unbreakable": "Unbreakable",
+  "enchantment.customenchants.unbreakable.desc": "Item never breaks. Exclusive with Unbreaking.",
+  "key.customenchants.reroll": "Reroll Enchantments"
+}

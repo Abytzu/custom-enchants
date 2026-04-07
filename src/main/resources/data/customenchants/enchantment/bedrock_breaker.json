@@ -1,0 +1,10 @@
+{
+  "description": { "translate": "enchantment.customenchants.bedrock_breaker" },
+  "supported_items": "#minecraft:enchantable/mining",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": { "base": 30, "per_level_above_first": 0 },
+  "max_cost": { "base": 80, "per_level_above_first": 0 },
+  "anvil_cost": 8,
+  "slots": ["mainhand"]
+}

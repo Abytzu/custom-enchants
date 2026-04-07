@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IAI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "A": { "item": "minecraft:anvil" }
+  },
+  "result": {
+    "id": "customenchants:arcane_anvil",
+    "count": 1
+  }
+}

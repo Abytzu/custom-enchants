@@ -1,0 +1,11 @@
+{
+  "description": { "translate": "enchantment.customenchants.efficiency" },
+  "supported_items": "#minecraft:enchantable/mining",
+  "primary_items": "#minecraft:enchantable/mining",
+  "weight": 1,
+  "max_level": 7,
+  "min_cost": { "base": 1000, "per_level_above_first": 1000 },
+  "max_cost": { "base": 2000, "per_level_above_first": 1000 },
+  "anvil_cost": 4,
+  "slots": ["mainhand"]
+}

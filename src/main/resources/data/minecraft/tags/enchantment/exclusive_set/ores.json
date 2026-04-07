@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:fortune",
+    "minecraft:silk_touch",
+    "customenchants:fortune",
+    "customenchants:smelting_touch"
+  ]
+}
