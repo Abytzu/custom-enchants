@@ -25,7 +25,6 @@ A Fabric mod for Minecraft 1.21.11 that adds 9 custom enchantments, anvil qualit
 ## 🔧 Anvil Improvements
 
 - **Zero XP rename** — Renaming an item with no other changes costs 0 XP
-- **Item return on close** — Items left in anvil input slots are returned to your inventory when you close the screen
 - **Color codes** — Use `&` or `§` color codes in the rename field
 
 ---
